@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\bin\Debug\net8.0\AlgorthimQuestions.exe
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\bin\Debug\net8.0\AlgorthimQuestions.deps.json
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\bin\Debug\net8.0\AlgorthimQuestions.runtimeconfig.json
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\bin\Debug\net8.0\AlgorthimQuestions.dll
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\bin\Debug\net8.0\AlgorthimQuestions.pdb
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\obj\Debug\net8.0\AlgorthimQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\obj\Debug\net8.0\AlgorthimQuestions.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\obj\Debug\net8.0\AlgorthimQuestions.AssemblyInfo.cs
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\obj\Debug\net8.0\AlgorthimQuestions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\obj\Debug\net8.0\AlgorthimQuestions.dll
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\obj\Debug\net8.0\refint\AlgorthimQuestions.dll
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\obj\Debug\net8.0\AlgorthimQuestions.pdb
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\obj\Debug\net8.0\AlgorthimQuestions.genruntimeconfig.cache
+C:\Users\User\Desktop\MGQS\AlgorthimQuestions\obj\Debug\net8.0\ref\AlgorthimQuestions.dll
